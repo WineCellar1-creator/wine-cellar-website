@@ -222,7 +222,7 @@ button.phone:hover{transform:translateY(-4px)}
 .foot{border-top:1px solid var(--line);padding:32px 0 40px}
 .foot-row{display:flex;flex-wrap:wrap;align-items:center;gap:16px 28px}
 .foot .brand span{font-size:17px}.foot .brand img{width:28px;height:28px;border-radius:7px}
-.foot nav{display:flex;gap:24px;margin-left:auto}
+.foot nav{display:flex;flex-wrap:wrap;gap:24px;margin-left:auto}
 .foot nav a{font-size:14.5px;color:var(--text-2);text-decoration:none}
 .foot nav a:hover{color:var(--text);text-decoration:underline}
 .legal{flex-basis:100%;font-size:13px;color:var(--text-3);line-height:1.6}
