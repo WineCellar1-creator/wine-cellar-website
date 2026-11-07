@@ -11,3 +11,8 @@ All files are in this one folder (no subfolders), so you can select everything a
 
 Language: picked from the visitor's browser, or forced with a link such as `index.html?lang=de`.
 To add screenshots in another language, name them like `s-cellar-de.jpg` and list them in `WC_SHOTS` at the bottom of `i18n.js`.
+<footer>
+  <a href="privacy-policy.html">Privacy Policy</a>
+  <span> | </span>
+  <a href="terms-of-service.html">Terms of Service</a>
+</footer>
